@@ -2,5 +2,6 @@
 This was my final project for front end class.
 It is done with Vanilla JS.
 This site let the user select an employee and after that shows the posts according to the person selected. Each post have a button to show comments or hide comments. 
+The main purpose was to practice the HTML elements, some methods, listeners, and functions. JSON data was used for the user’s information.
 
 LINK HERE TO SEE THE SITE: https://nervous-haibt-da72bf.netlify.app/
